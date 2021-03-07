@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ## 🔭 I’m currently working on
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Leatherback-Azi&repo=binari-ios)](https://github.com/apple19760401/binari-ios)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Leatherback-Azi&repo=TwitchLink-MacOS)](https://github.com/Leatherback-Azi/TwitchLink-MacOS)
 
 ## 🌱 I'm Currently learning
 ### - Python3
