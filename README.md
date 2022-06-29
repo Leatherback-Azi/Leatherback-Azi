@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on
 - Deagu Software Meister High School from 2020~
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Leatherback-Azi&repo=TwitchLink-MacOS)](https://github.com/Leatherback-Azi/TwitchLink-MacOS)
 
 ## 🌱 I'm Currently learning
