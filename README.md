@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Leatherback-Azi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Leatherback-Azi&fontSize=90](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=&fontSize=90)
 <!--
 **apple19760401/apple19760401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello there, I'm Seo SeongWoo
-- Junior developer who working on developing 'Python Back-End'
+- Junior developer who working on developing 'Python Back-End'p
 - My main framework is 'Django'
+- My PortFolio : https://leatherback.notion.site/Portfolio-9966ec42f42f4c84a25fcbed2e1e1e11
 
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Leatherback-Azi&show_icons=true&count_private=true)  
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Leatherback-Azi)
