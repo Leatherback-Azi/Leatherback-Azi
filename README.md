@@ -13,20 +13,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello there
-- Living in Deagu, South Korea
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello there, I'm Seo SeongWoo
+- Junior developer who working on developing 'Python Back-End'
+- My main framework is 'Django'
 
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Leatherback-Azi&show_icons=true&count_private=true)  
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Leatherback-Azi)
 
 
 ## 🔭 I’m currently working on
+- Deagu Software Meister High School from 2020~
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Leatherback-Azi&repo=TwitchLink-MacOS)](https://github.com/Leatherback-Azi/TwitchLink-MacOS)
 
 ## 🌱 I'm Currently learning
 ### - Python3
 ### - Django
 ### - Flask
+### - FastAPI
+### - Amazon Web Service (Code Deploy, RDS, Load Balancer, Elastic Beanstalk)
+### - Celery
 
 
 ## 📫 How to reach me
